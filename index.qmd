@@ -5,11 +5,11 @@
 ## Omid Mirzamohammadi
 
 
-### About Me
+## About Me
 
 I am a Ph.D. researcher in cryptography at COSIC, KU Leuven, under the supervision of Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin. My work focuses on designing cryptographic protocols for privacy-preserving systems.
 
-### Research Interests
+## Research Interests
 
 I am interested in provable security and the formal analysis of cryptographic protocols. My current research focuses on anonymous credentials, privacy threats in decentralized systems, and post-quantum cryptography. I am particularly interested in designing new constructions and rigorously proving their security.
 
