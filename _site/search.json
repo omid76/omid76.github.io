@@ -180,5 +180,19 @@
     "title": "Research",
     "section": "Privacy-preserving computation",
     "text": "Privacy-preserving computation\nMore broadly, I am interested in cryptographic methods that allow parties to compute, verify, or authenticate information while revealing as little as possible."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Omid Mirzamohammadi",
+    "section": "",
+    "text": "I am a Ph.D. researcher in cryptography at COSIC, KU Leuven, under the supervision of Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin. My work focuses on designing cryptographic protocols for privacy-preserving systems."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Omid Mirzamohammadi",
+    "section": "",
+    "text": "I am interested in provable security and the formal analysis of cryptographic protocols. My current research focuses on anonymous credentials, privacy threats in decentralized systems, and post-quantum cryptography. I am particularly interested in designing new constructions and rigorously proving their security."
   }
 ]
