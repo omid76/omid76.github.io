@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Omid Mirzamohammadi"
+  description: "Personal academic website of Omid Mirzamohammadi"
+  site-url: "https://omid76.github.io"
+  navbar:
+    background: "#0B4F63"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: blog.qmd
+        text: Blog
+      - href: news.qmd
+        text: News
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/omid76
+      - icon: envelope
+        href: mailto:omid.mirzamohammadi@esat.kuleuven.be
+  page-footer:
+    left: "© 2026 Omid Mirzamohammadi"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: cosmo
+    css: styles.scss
+    toc: true
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

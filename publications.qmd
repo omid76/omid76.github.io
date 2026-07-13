@@ -1,0 +1,88 @@
+---
+title: "Publications"
+---
+
+
+::: {.pub}
+
+<div class="pub-title">
+Multi-Verifier Keyed-Verification Anonymous Credentials
+</div>
+
+Jan Bobolz, Emad Heydari Beni, Anja Lehmann, **Omid Mirzamohammadi**, Cavit Özbay, and Mahdi Sedaghat.
+
+*Cryptology ePrint Archive, Paper 2025/2156, 2025.*
+
+[Paper](https://eprint.iacr.org/2025/2156)
+
+:::
+
+::: {.pub}
+
+<div class="pub-title">
+SoK: Connecting the Dots in Privacy-Preserving ML — Systematization of MPC Protocols and Conversions Between Secret Sharing Schemes
+</div>
+
+Martin Zbudila, Ajith Suresh, Hossein Yalame, **Omid Mirzamohammadi**, Aysajan Abidin, and Bart Preneel.
+
+*Cryptology ePrint Archive, Paper 2025/1679, 2025.*
+
+[Paper](https://eprint.iacr.org/2025/1679)
+
+:::
+
+::: {.pub}
+
+<div class="pub-title">
+Traceable Verifiable Secret Sharing and Applications
+</div>
+
+Karim Baghery, Ehsan Ebrahimi, **Omid Mirzamohammadi**, and Mahdi Sedaghat.
+
+*Cryptology ePrint Archive, Paper 2025/318, 2025.*
+
+[Paper](https://eprint.iacr.org/2025/318)
+
+:::
+
+::: {.pub}
+
+<div class="pub-title">
+Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure
+</div>
+
+**Omid Mirzamohammadi**, Jan Bobolz, Mahdi Sedaghat, Emad Heydari Beni, Aysajan Abidin, Dave Singelée, and Bart Preneel.
+
+*IACR Communications in Cryptology, Vol. 2, No. 3, 2025.*
+
+[Paper](https://cic.iacr.org/p/2/3/15)
+
+:::
+
+::: {.pub}
+
+<div class="pub-title">
+Security and Privacy Threat Analysis for Solid
+</div>
+
+**Omid Mirzamohammadi**, Kristof Jannes, Laurens Sion, Dimitri Van Landuyt, Aysajan Abidin, and Dave Singelée.
+
+*IEEE Secure Development Conference (SecDev), 2023, pp. 196–206.*
+
+[Paper](https://kristofjannes.com/papers/secdev23.pdf)
+
+:::
+
+::: {.pub}
+
+<div class="pub-title">
+Analysis and Improvement of the SPACF Scheme in Vehicular Ad-Hoc Networks
+</div>
+
+**Omid Mirzamohammadi**, Ali Aghabagherloo, Javad Mohajeri, Mahmoud Salmasizadeh, and Mohammad Reza Aref.
+
+*18th International ISC Conference on Information Security and Cryptology (ISCISC), 2021, pp. 68–74.*
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9720470)
+
+:::

@@ -1,0 +1,17 @@
+---
+title: "Contact"
+---
+
+You can contact me by email:
+
+omid dot mirzamohammadi at esat dot kuleuven dot be
+
+## Affiliation
+
+COSIC, KU Leuven, Leuven, Belgium
+
+## Links
+
+- [GitHub](https://github.com/omid76)
+- [Google Scholar](https://scholar.google.com/citations?user=0WK2UcMAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/omid-mirzamohammadi-972782159/)

@@ -1,0 +1,16 @@
+---
+title: "Talks"
+---
+
+### Multi-Verifier Keyed-Verification Anonymous Credentials
+
+- PrivCrypt 2026: [Read the slides](slides/PrivCrypt-mKVAC.pdf)
+- COSIC seminar: [Watch the talk](https://www.youtube.com/watch?v=0fgxph8I6Aw)
+
+### Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure
+
+- PrivCrypt 2026: [Read the slides](slides/PrivCrypt-KVAC.pdf)
+- NordiCrypt 2025
+- COSIC seminar: [Watch the talk](https://www.youtube.com/watch?v=MILVlPhOqz0)
+
+

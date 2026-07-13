@@ -1,0 +1,28 @@
+---
+title: "News"
+---
+
+## 2026
+
+- **June 2026** — I launched this website.
+- **May 2026** — I gave two talks at PrivCrypt 2026, affiliated with Eurocrypt 2026, on “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure” and “Multi-Verifier Keyed-Verification Anonymous Credentials.”
+- **April 2026** — I gave a COSIC seminar on “Multi-Verifier Keyed-Verification Anonymous Credentials.” [Watch the talk](https://www.youtube.com/watch?v=0fgxph8I6Aw).
+
+## 2025
+
+- **November 2025** — The ePrint version of “Multi-Verifier Keyed-Verification Anonymous Credentials” is now available. [Read the paper](https://eprint.iacr.org/2025/2156).
+- **November 2025** — I gave a talk at NordiCrypt on “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure.”
+- **September 2025** — I visited Professor Anja Lehmann at the Hasso Plattner Institute, University of Potsdam.
+- **September 2025** — Our paper “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure” was accepted to IACR Communications in Cryptology. [Read the paper](https://cic.iacr.org/p/2/3/15).
+- **September 2025** — The ePrint version of “SoK: Connecting the Dots in Privacy-Preserving ML — Systematization of MPC Protocols and Conversions Between Secret Sharing Schemes” is now available. [Read the paper](https://eprint.iacr.org/2025/1679).
+- **August 2025** — I gave a COSIC seminar on “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure.” [Watch the talk](https://www.youtube.com/watch?v=MILVlPhOqz0).
+- **February 2025** — The ePrint version of “Traceable Verifiable Secret Sharing and Applications” is now available. [Read the paper](https://eprint.iacr.org/2025/318).
+- **January 2025** — The ePrint version of “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure” is now available. [Read the paper](https://eprint.iacr.org/2025/041).
+
+## 2023
+
+- **October 2023** — Our paper “Security and Privacy Threat Analysis for Solid” was accepted to the IEEE Secure Development Conference (SecDev). [Read the paper](https://ieeexplore.ieee.org/abstract/document/10305608).
+
+## 2021
+
+- **September 2021** — Our paper “Analysis and Improvement of the SPACF Scheme in Vehicular Ad-hoc Networks” was accepted to the 18th International ISC Conference on Information Security and Cryptology (ISCISC). [Read the paper](https://ieeexplore.ieee.org/abstract/document/9720470).

@@ -1,0 +1,234 @@
+/*-- scss:defaults --*/
+$primary: #0B4F63;
+$link-color: #0B4F63;
+
+/*-- scss:rules --*/
+
+/* Hide Quarto automatic title block if the title is written manually */
+.quarto-title-block {
+  display: none;
+}
+
+/* Homepage hero section */
+.hero {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.hero-text {
+  flex: 1;
+  min-width: 0;
+  max-width: 780px;
+}
+
+.hero-text h1 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 2.6rem;
+  line-height: 1.1;
+}
+
+.hero-text h2 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 2.2rem;
+  line-height: 1.1;
+}
+
+.subtitle-line {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 1.4rem;
+}
+
+/* Profile photo */
+.hero-photo {
+  flex: 0 0 190px;
+  text-align: right;
+  margin-top: 0.6rem;
+  margin-right: 1rem;
+}
+
+.hero-photo img {
+  width: 190px;
+  max-width: 100%;
+  border-radius: 50%;
+  display: block;
+}
+
+/* Buttons */
+.button-row a {
+  display: inline-block;
+  margin: 0.25rem 0.35rem 0.25rem 0;
+  padding: 0.55rem 0.85rem;
+  border-radius: 0.6rem;
+  border: 1px solid #0B4F63;
+  text-decoration: none;
+}
+
+.button-row a:hover {
+  background: #0B4F63;
+  color: white;
+}
+
+/* Card layout */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(235px, 1fr));
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+/* Info cards */
+.info-card {
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.9rem;
+  padding: 1.1rem;
+  min-height: 260px;
+}
+
+.info-card h3 {
+  margin-top: 0;
+}
+
+/* Dark mode info cards */
+html[data-bs-theme="dark"] .info-card,
+body.quarto-dark .info-card {
+  background-color: #2b2b2b !important;
+  color: #f1f1f1 !important;
+  border-color: #555 !important;
+}
+
+html[data-bs-theme="dark"] .info-card h3,
+html[data-bs-theme="dark"] .info-card p,
+body.quarto-dark .info-card h3,
+body.quarto-dark .info-card p {
+  color: #f1f1f1 !important;
+}
+
+/* Light mode info cards */
+html[data-bs-theme="light"] .info-card,
+body.quarto-light .info-card {
+  background-color: #ffffff !important;
+  color: #212529 !important;
+  border-color: #e9ecef !important;
+}
+
+html[data-bs-theme="light"] .info-card h3,
+html[data-bs-theme="light"] .info-card p,
+body.quarto-light .info-card h3,
+body.quarto-light .info-card p {
+  color: #212529 !important;
+}
+
+/* Publication blocks */
+.pub {
+  margin-bottom: 1.4rem;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid var(--bs-border-color);
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+/* Notes */
+.note {
+  background-color: var(--bs-tertiary-bg);
+  color: var(--bs-body-color);
+  border-left: 4px solid #0B4F63;
+  padding: 0.9rem 1rem;
+  margin: 1rem 0;
+}
+
+/* General dark/light mode fixes for Bootstrap/Quarto cards */
+.card,
+.quarto-grid-item,
+.listing-card,
+.callout,
+div.quarto-post {
+  background-color: var(--bs-tertiary-bg);
+  color: var(--bs-body-color);
+  border: 1px solid var(--bs-border-color);
+}
+
+.card a,
+.quarto-grid-item a,
+.listing-card a {
+  color: var(--bs-link-color);
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column-reverse;
+    gap: 1.2rem;
+  }
+
+  .hero-photo {
+    text-align: left;
+    margin-right: 0;
+  }
+
+  .hero-photo img {
+    width: 150px;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* CV entries */
+.cv-entry {
+  padding: 1.2rem 1.4rem;
+  margin: 1.2rem 0;
+  border-left: 4px solid #0B4F63;
+  border-radius: 0.8rem;
+  border-top: 1px solid var(--bs-border-color);
+  border-right: 1px solid var(--bs-border-color);
+  border-bottom: 1px solid var(--bs-border-color);
+}
+
+.cv-entry h3 {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+}
+
+/* CV entries in dark mode */
+html[data-bs-theme="dark"] .cv-entry,
+body.quarto-dark .cv-entry {
+  background-color: #2b2b2b !important;
+  color: #f1f1f1 !important;
+  border-color: #555 !important;
+  border-left-color: #0B4F63 !important;
+}
+
+html[data-bs-theme="dark"] .cv-entry h3,
+html[data-bs-theme="dark"] .cv-entry p,
+body.quarto-dark .cv-entry h3,
+body.quarto-dark .cv-entry p {
+  color: #f1f1f1 !important;
+}
+
+/* CV entries in light mode */
+html[data-bs-theme="light"] .cv-entry,
+body.quarto-light .cv-entry {
+  background-color: #ffffff !important;
+  color: #212529 !important;
+  border-color: #e9ecef !important;
+  border-left-color: #0B4F63 !important;
+}
+
+html[data-bs-theme="light"] .cv-entry h3,
+html[data-bs-theme="light"] .cv-entry p,
+body.quarto-light .cv-entry h3,
+body.quarto-light .cv-entry p {
+  color: #212529 !important;
+}

@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+My research is about building cryptographic protocols that protect user privacy while remaining efficient enough for real-world systems.
+
+## Anonymous credentials
+
+Anonymous credentials allow a user to prove statements about certified attributes without revealing all of their information. For example, a user may prove that they are over a certain age or belong to an institution without revealing their full identity.
+
+I am especially interested in efficient credential presentations, selective disclosure, and multi-show unlinkability.
+
+## Keyed-verification anonymous credentials
+
+In keyed-verification anonymous credentials, verification is performed using a secret verification key rather than only public information. This model is useful in settings where the issuer and verifier have a trust or key-sharing relationship, and it can lead to very efficient constructions.
+
+My work studies how to make these systems efficient, privacy-preserving, and suitable for partial disclosure.
+
+## Decentralized identity and Solid
+
+Decentralized identity systems aim to give users more control over their data. However, they also introduce privacy challenges, such as identity linking and repeated tracking across services.
+
+I study cryptographic tools that can help reduce these privacy risks while preserving useful functionality.
+
+## Privacy-preserving computation
+
+More broadly, I am interested in cryptographic methods that allow parties to compute, verify, or authenticate information while revealing as little as possible.

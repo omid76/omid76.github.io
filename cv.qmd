@@ -1,0 +1,96 @@
+---
+title: "CV"
+---
+
+## Education
+
+::: {.cv-entry}
+
+### Ph.D. in Cryptography
+
+**KU Leuven**, COSIC, Department of Electrical Engineering (ESAT)  
+Belgium  
+**Since 2022**
+
+Supervisors: Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin
+
+Average grade: 20 out of 20  
+GPA: 4/4
+
+::: 
+
+::: {.cv-entry}
+
+### M.Sc. in Secure Communications and Cryptography
+
+**Sharif University of Technology**  
+Iran  
+**2019--2022**
+
+Supervisor: Prof. Mohammad Reza Aref  
+Co-supervisor: Prof. Mahmoud Salmasizadeh  
+
+Average grade: 19.35 out of 20  
+GPA: 4/4
+
+::: 
+
+::: {.cv-entry}
+
+### B.Sc. in Electrical Engineering
+
+**Sharif University of Technology**  
+Iran  
+**2015--2019**
+
+Supervisor: Prof. Farid Ashtiani  
+
+Average grade: 17.67 out of 20  
+GPA: 3.73/4
+
+::: 
+
+::: {.cv-entry}
+
+### High School Diploma
+
+**Allameh Helli 1**  
+Iran  
+**2011--2015**
+
+Written diploma grade: 19.7 out of 20  
+Aggregate diploma grade: 19.84 out of 20
+
+:::
+
+## Master’s Thesis Supervision
+
+- Henri Cattoire, **“Enhancing Privacy in the Solid Protocol through Attribute-Based Encryption,”** 2025.
+- Fernando Javier López Cerezo, **“Towards Self-Blindable Anonymous Credentials from Lattices,”** 2026.
+
+## Reviewing and Subreviewing
+
+I have served as a subreviewer for the following conferences:
+
+- IEEE Symposium on Security and Privacy (**S&P**), 2027.
+- ACM Conference on Computer and Communications Security (**CCS**), 2026.
+- IEEE Symposium on Security and Privacy (**S&P**), 2026.
+- International Conference on Cryptology and Network Security (**CANS**), 2025.
+- USENIX Security Symposium, 2024.
+
+## Visiting Research
+
+- Research visit to Prof. Anja Lehmann’s group at the Hasso Plattner Institute (HPI), University of Potsdam, Germany, 2025.
+
+## Awards and Honors
+
+- Silver medal, Iran National Physics Olympiad, 2014.
+- Member of Iran’s National Elites Foundation, since 2014.
+- Accepted without entrance exam to the M.Sc. program in Secure Communications and Cryptography at Sharif University of Technology, 2019.
+
+## Teaching Assistant Experience
+
+- Teaching Assistant, **Logic Circuits and Digital Systems**, 2018--2019.
+- Teaching Assistant, **Cryptography**, 2020--2021.
+- Teaching Assistant, **Advanced Cryptography**, 2020--2021.
+- Teaching Assistant, **Selected Topics in Cryptography**, 2021--2022.
