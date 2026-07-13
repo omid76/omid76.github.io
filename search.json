@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Multi-Verifier Keyed-Verification Anonymous Credentials\n\nPrivCrypt 2026: Read the slides\nCOSIC seminar: Watch the talk\n\n\n\nKeyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure\n\nPrivCrypt 2026: Read the slides\nNordiCrypt 2025\nCOSIC seminar: Watch the talk"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Multi-Verifier Keyed-Verification Anonymous Credentials\n\nJan Bobolz, Emad Heydari Beni, Anja Lehmann, Omid Mirzamohammadi, Cavit Özbay, and Mahdi Sedaghat.\nCryptology ePrint Archive, Paper 2025/2156, 2025.\nPaper\n\n\n\nSoK: Connecting the Dots in Privacy-Preserving ML — Systematization of MPC Protocols and Conversions Between Secret Sharing Schemes\n\nMartin Zbudila, Ajith Suresh, Hossein Yalame, Omid Mirzamohammadi, Aysajan Abidin, and Bart Preneel.\nCryptology ePrint Archive, Paper 2025/1679, 2025.\nPaper\n\n\n\nTraceable Verifiable Secret Sharing and Applications\n\nKarim Baghery, Ehsan Ebrahimi, Omid Mirzamohammadi, and Mahdi Sedaghat.\nCryptology ePrint Archive, Paper 2025/318, 2025.\nPaper\n\n\n\nKeyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure\n\nOmid Mirzamohammadi, Jan Bobolz, Mahdi Sedaghat, Emad Heydari Beni, Aysajan Abidin, Dave Singelée, and Bart Preneel.\nIACR Communications in Cryptology, Vol. 2, No. 3, 2025.\nPaper\n\n\n\nSecurity and Privacy Threat Analysis for Solid\n\nOmid Mirzamohammadi, Kristof Jannes, Laurens Sion, Dimitri Van Landuyt, Aysajan Abidin, and Dave Singelée.\nIEEE Secure Development Conference (SecDev), 2023, pp. 196–206.\nPaper\n\n\n\nAnalysis and Improvement of the SPACF Scheme in Vehicular Ad-Hoc Networks\n\nOmid Mirzamohammadi, Ali Aghabagherloo, Javad Mohajeri, Mahmoud Salmasizadeh, and Mohammad Reza Aref.\n18th International ISC Conference on Information Security and Cryptology (ISCISC), 2021, pp. 68–74.\nPaper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Omid Mirzamohammadi",
+    "section": "",
+    "text": "I am a Ph.D. researcher in cryptography at COSIC, KU Leuven, under the supervision of Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin. My work focuses on designing cryptographic protocols for privacy-preserving systems.\n\n\n\nI am interested in provable security and the formal analysis of cryptographic protocols. My current research focuses on anonymous credentials, privacy threats in decentralized systems, and post-quantum cryptography. I am particularly interested in designing new constructions and rigorously proving their security."
+  },
+  {
+    "objectID": "index.html#omid-mirzamohammadi",
+    "href": "index.html#omid-mirzamohammadi",
+    "title": "Omid Mirzamohammadi",
+    "section": "",
+    "text": "I am a Ph.D. researcher in cryptography at COSIC, KU Leuven, under the supervision of Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin. My work focuses on designing cryptographic protocols for privacy-preserving systems.\n\n\n\nI am interested in provable security and the formal analysis of cryptographic protocols. My current research focuses on anonymous credentials, privacy threats in decentralized systems, and post-quantum cryptography. I am particularly interested in designing new constructions and rigorously proving their security."
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Omid Mirzamohammadi",
+    "section": "Recent News",
+    "text": "Recent News\n\nWebsite launched.\nPrivCrypt 2026: I gave two talks at PrivCrypt 2026, affiliated with Eurocrypt 2026. The slides are available in the Talks section.\nMulti-Verifier Keyed-Verification Anonymous Credentials: The ePrint version of our paper is now available. Read the paper."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can contact me by email:\nomid dot mirzamohammadi at esat dot kuleuven dot be"
+  },
+  {
+    "objectID": "contact.html#affiliation",
+    "href": "contact.html#affiliation",
+    "title": "Contact",
+    "section": "Affiliation",
+    "text": "Affiliation\nCOSIC, KU Leuven, Leuven, Belgium"
+  },
+  {
+    "objectID": "contact.html#links",
+    "href": "contact.html#links",
+    "title": "Contact",
+    "section": "Links",
+    "text": "Links\n\nGitHub\nGoogle Scholar\nLinkedIn"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "KU Leuven, COSIC, Department of Electrical Engineering (ESAT)\nBelgium\nSince 2022\nSupervisors: Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin\nAverage grade: 20 out of 20\nGPA: 4/4\n\n\n\nSharif University of Technology\nIran\n2019–2022\nSupervisor: Prof. Mohammad Reza Aref\nCo-supervisor: Prof. Mahmoud Salmasizadeh\nAverage grade: 19.35 out of 20\nGPA: 4/4\n\n\n\nSharif University of Technology\nIran\n2015–2019\nSupervisor: Prof. Farid Ashtiani\nAverage grade: 17.67 out of 20\nGPA: 3.73/4\n\n\n\nAllameh Helli 1\nIran\n2011–2015\nWritten diploma grade: 19.7 out of 20\nAggregate diploma grade: 19.84 out of 20"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "KU Leuven, COSIC, Department of Electrical Engineering (ESAT)\nBelgium\nSince 2022\nSupervisors: Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin\nAverage grade: 20 out of 20\nGPA: 4/4\n\n\n\nSharif University of Technology\nIran\n2019–2022\nSupervisor: Prof. Mohammad Reza Aref\nCo-supervisor: Prof. Mahmoud Salmasizadeh\nAverage grade: 19.35 out of 20\nGPA: 4/4\n\n\n\nSharif University of Technology\nIran\n2015–2019\nSupervisor: Prof. Farid Ashtiani\nAverage grade: 17.67 out of 20\nGPA: 3.73/4\n\n\n\nAllameh Helli 1\nIran\n2011–2015\nWritten diploma grade: 19.7 out of 20\nAggregate diploma grade: 19.84 out of 20"
+  },
+  {
+    "objectID": "cv.html#masters-thesis-supervision",
+    "href": "cv.html#masters-thesis-supervision",
+    "title": "CV",
+    "section": "Master’s Thesis Supervision",
+    "text": "Master’s Thesis Supervision\n\nHenri Cattoire, “Enhancing Privacy in the Solid Protocol through Attribute-Based Encryption,” 2025.\nFernando Javier López Cerezo, “Towards Self-Blindable Anonymous Credentials from Lattices,” 2026."
+  },
+  {
+    "objectID": "cv.html#reviewing-and-subreviewing",
+    "href": "cv.html#reviewing-and-subreviewing",
+    "title": "CV",
+    "section": "Reviewing and Subreviewing",
+    "text": "Reviewing and Subreviewing\nI have served as a subreviewer for the following conferences:\n\nIEEE Symposium on Security and Privacy (S&P), 2027.\nACM Conference on Computer and Communications Security (CCS), 2026.\nIEEE Symposium on Security and Privacy (S&P), 2026.\nInternational Conference on Cryptology and Network Security (CANS), 2025.\nUSENIX Security Symposium, 2024."
+  },
+  {
+    "objectID": "cv.html#visiting-research",
+    "href": "cv.html#visiting-research",
+    "title": "CV",
+    "section": "Visiting Research",
+    "text": "Visiting Research\n\nResearch visit to Prof. Anja Lehmann’s group at the Hasso Plattner Institute (HPI), University of Potsdam, Germany, 2025."
+  },
+  {
+    "objectID": "cv.html#awards-and-honors",
+    "href": "cv.html#awards-and-honors",
+    "title": "CV",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\nSilver medal, Iran National Physics Olympiad, 2014.\nMember of Iran’s National Elites Foundation, since 2014.\nAccepted without entrance exam to the M.Sc. program in Secure Communications and Cryptography at Sharif University of Technology, 2019."
+  },
+  {
+    "objectID": "cv.html#teaching-assistant-experience",
+    "href": "cv.html#teaching-assistant-experience",
+    "title": "CV",
+    "section": "Teaching Assistant Experience",
+    "text": "Teaching Assistant Experience\n\nTeaching Assistant, Logic Circuits and Digital Systems, 2018–2019.\nTeaching Assistant, Cryptography, 2020–2021.\nTeaching Assistant, Advanced Cryptography, 2020–2021.\nTeaching Assistant, Selected Topics in Cryptography, 2021–2022."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "June 2026 — I launched this website.\nMay 2026 — I gave two talks at PrivCrypt 2026, affiliated with Eurocrypt 2026, on “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure” and “Multi-Verifier Keyed-Verification Anonymous Credentials.”\nApril 2026 — I gave a COSIC seminar on “Multi-Verifier Keyed-Verification Anonymous Credentials.” Watch the talk."
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News",
+    "section": "",
+    "text": "June 2026 — I launched this website.\nMay 2026 — I gave two talks at PrivCrypt 2026, affiliated with Eurocrypt 2026, on “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure” and “Multi-Verifier Keyed-Verification Anonymous Credentials.”\nApril 2026 — I gave a COSIC seminar on “Multi-Verifier Keyed-Verification Anonymous Credentials.” Watch the talk."
+  },
+  {
+    "objectID": "news.html#section-1",
+    "href": "news.html#section-1",
+    "title": "News",
+    "section": "2025",
+    "text": "2025\n\nNovember 2025 — The ePrint version of “Multi-Verifier Keyed-Verification Anonymous Credentials” is now available. Read the paper.\nNovember 2025 — I gave a talk at NordiCrypt on “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure.”\nSeptember 2025 — I visited Professor Anja Lehmann at the Hasso Plattner Institute, University of Potsdam.\nSeptember 2025 — Our paper “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure” was accepted to IACR Communications in Cryptology. Read the paper.\nSeptember 2025 — The ePrint version of “SoK: Connecting the Dots in Privacy-Preserving ML — Systematization of MPC Protocols and Conversions Between Secret Sharing Schemes” is now available. Read the paper.\nAugust 2025 — I gave a COSIC seminar on “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure.” Watch the talk.\nFebruary 2025 — The ePrint version of “Traceable Verifiable Secret Sharing and Applications” is now available. Read the paper.\nJanuary 2025 — The ePrint version of “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure” is now available. Read the paper."
+  },
+  {
+    "objectID": "news.html#section-2",
+    "href": "news.html#section-2",
+    "title": "News",
+    "section": "2023",
+    "text": "2023\n\nOctober 2023 — Our paper “Security and Privacy Threat Analysis for Solid” was accepted to the IEEE Secure Development Conference (SecDev). Read the paper."
+  },
+  {
+    "objectID": "news.html#section-3",
+    "href": "news.html#section-3",
+    "title": "News",
+    "section": "2021",
+    "text": "2021\n\nSeptember 2021 — Our paper “Analysis and Improvement of the SPACF Scheme in Vehicular Ad-hoc Networks” was accepted to the 18th International ISC Conference on Information Security and Cryptology (ISCISC). Read the paper."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research is about building cryptographic protocols that protect user privacy while remaining efficient enough for real-world systems."
+  },
+  {
+    "objectID": "research.html#anonymous-credentials",
+    "href": "research.html#anonymous-credentials",
+    "title": "Research",
+    "section": "Anonymous credentials",
+    "text": "Anonymous credentials\nAnonymous credentials allow a user to prove statements about certified attributes without revealing all of their information. For example, a user may prove that they are over a certain age or belong to an institution without revealing their full identity.\nI am especially interested in efficient credential presentations, selective disclosure, and multi-show unlinkability."
+  },
+  {
+    "objectID": "research.html#keyed-verification-anonymous-credentials",
+    "href": "research.html#keyed-verification-anonymous-credentials",
+    "title": "Research",
+    "section": "Keyed-verification anonymous credentials",
+    "text": "Keyed-verification anonymous credentials\nIn keyed-verification anonymous credentials, verification is performed using a secret verification key rather than only public information. This model is useful in settings where the issuer and verifier have a trust or key-sharing relationship, and it can lead to very efficient constructions.\nMy work studies how to make these systems efficient, privacy-preserving, and suitable for partial disclosure."
+  },
+  {
+    "objectID": "research.html#decentralized-identity-and-solid",
+    "href": "research.html#decentralized-identity-and-solid",
+    "title": "Research",
+    "section": "Decentralized identity and Solid",
+    "text": "Decentralized identity and Solid\nDecentralized identity systems aim to give users more control over their data. However, they also introduce privacy challenges, such as identity linking and repeated tracking across services.\nI study cryptographic tools that can help reduce these privacy risks while preserving useful functionality."
+  },
+  {
+    "objectID": "research.html#privacy-preserving-computation",
+    "href": "research.html#privacy-preserving-computation",
+    "title": "Research",
+    "section": "Privacy-preserving computation",
+    "text": "Privacy-preserving computation\nMore broadly, I am interested in cryptographic methods that allow parties to compute, verify, or authenticate information while revealing as little as possible."
+  }
+]
