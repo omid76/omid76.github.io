@@ -48,6 +48,16 @@ $link-color: #0B4F63;
 }
 
 /* Profile photo */
+
+.hero-photo figure {
+  margin: 0;
+  width: fit-content;
+}
+
+.hero-photo figure p {
+  margin: 0;
+}
+
 .hero-photo {
   flex: 0 0 190px;
   text-align: right;
