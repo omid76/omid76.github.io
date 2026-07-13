@@ -1,26 +1,26 @@
 {
   "blog.qmd": {
-    "blog.html": "869ff7b1"
+    "blog.html": "78076883"
   },
   "contact.qmd": {
-    "contact.html": "2565db05"
+    "contact.html": "42015e72"
   },
   "cv.qmd": {
-    "cv.html": "e4c7ad92"
+    "cv.html": "05e1b057"
   },
   "index.qmd": {
-    "index.html": "d1d514fe"
+    "index.html": "d9f41176"
   },
   "news.qmd": {
-    "news.html": "f77d1fb6"
+    "news.html": "3ebec933"
   },
   "publications.qmd": {
-    "publications.html": "01d1ca3c"
+    "publications.html": "e5c59518"
   },
   "research.qmd": {
-    "research.html": "7d1fb9cd"
+    "research.html": "eaf479e3"
   },
   "talks.qmd": {
-    "talks.html": "7d344910"
+    "talks.html": "ef82b2c1"
   }
 }
