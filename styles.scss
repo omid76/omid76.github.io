@@ -242,3 +242,25 @@ body.quarto-light .cv-entry h3,
 body.quarto-light .cv-entry p {
   color: #212529 !important;
 }
+
+/* Mobile hero layout fix */
+@media (max-width: 768px) {
+  .hero-flex {
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center;
+  }
+
+  .hero-flex-photo {
+    margin: 0 0 1.2rem 0 !important;
+    text-align: center !important;
+  }
+
+  .hero-flex-photo img {
+    margin: 0 auto !important;
+  }
+
+  .hero-flex-text {
+    text-align: left;
+  }
+}
