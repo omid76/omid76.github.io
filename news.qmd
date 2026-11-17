@@ -4,6 +4,7 @@ title: "News"
 
 ## 2026
 
+- **August 2026** — Our paper “Multi-Verifier Keyed-Verification Anonymous Credentials” has been accepted to ASIACRYPT 2026. [Read the paper](https://eprint.iacr.org/2025/2156).
 - **June 2026** — I launched this website.
 - **May 2026** — I gave two talks at PrivCrypt 2026, affiliated with Eurocrypt 2026, on “Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure” and “Multi-Verifier Keyed-Verification Anonymous Credentials.”
 - **April 2026** — I gave a COSIC seminar on “Multi-Verifier Keyed-Verification Anonymous Credentials.” [Watch the talk](https://www.youtube.com/watch?v=0fgxph8I6Aw).

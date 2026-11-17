@@ -43,6 +43,9 @@ format:
     page-layout: full
     smooth-scroll: true
     link-external-newwindow: true
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="QWUq5ZFfFOtqbr4hd6Hg7tow7x8a9vZXhv9hsXJaxR0" />
 
 execute:
   freeze: auto

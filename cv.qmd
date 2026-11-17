@@ -2,11 +2,7 @@
 title: "CV"
 ---
 
-## Education
-
-::: {.cv-entry}
-
-### Ph.D. in Cryptography
+## Ph.D. in Cryptography
 
 **KU Leuven**, COSIC, Department of Electrical Engineering (ESAT)  
 Belgium  
@@ -17,11 +13,7 @@ Supervisors: Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin
 Average grade: 20 out of 20  
 GPA: 4/4
 
-::: 
-
-::: {.cv-entry}
-
-### M.Sc. in Secure Communications and Cryptography
+## M.Sc. in Secure Communications and Cryptography
 
 **Sharif University of Technology**  
 Iran  
@@ -33,11 +25,7 @@ Co-supervisor: Prof. Mahmoud Salmasizadeh
 Average grade: 19.35 out of 20  
 GPA: 4/4
 
-::: 
-
-::: {.cv-entry}
-
-### B.Sc. in Electrical Engineering
+## B.Sc. in Electrical Engineering
 
 **Sharif University of Technology**  
 Iran  
@@ -48,11 +36,7 @@ Supervisor: Prof. Farid Ashtiani
 Average grade: 17.67 out of 20  
 GPA: 3.73/4
 
-::: 
-
-::: {.cv-entry}
-
-### High School Diploma
+## High School Diploma
 
 **Allameh Helli 1**  
 Iran  
@@ -60,8 +44,6 @@ Iran
 
 Written diploma grade: 19.7 out of 20  
 Aggregate diploma grade: 19.84 out of 20
-
-:::
 
 ## Master’s Thesis Supervision
 

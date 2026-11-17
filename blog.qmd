@@ -1,9 +1,6 @@
 ---
 title: "Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
 ---
+
+[Multi-Verifier Keyed-Verification Anonymous Credentials](https://www.esat.kuleuven.be/cosic/blog/multi-verifier-keyed-verification-anonymous-credentials-mkvac/)
 

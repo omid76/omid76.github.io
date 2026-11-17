@@ -1,30 +1,67 @@
-::: {.hero}
+```{=html}
+<style>
+.hero-flex {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+.hero-flex-text {
+  flex: 1;
+  min-width: 0;
+}
+.hero-flex-photo {
+  flex: 0 0 190px;
+  text-align: right;
+  margin-top: 0.6rem;
+}
+.hero-flex-photo img {
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+}
 
-::: {.hero-text}
+@media (max-width: 768px) {
+  .hero-flex {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .hero-flex-photo {
+    order: -1;
+    margin: 0 0 1.2rem 0;
+    text-align: center;
+  }
+  .hero-flex-photo img {
+    margin: 0 auto;
+  }
+  .hero-flex-text {
+    text-align: left;
+  }
+}
+</style>
 
-## Omid Mirzamohammadi
-
-
-### About Me
-
-I am a Ph.D. researcher in cryptography at COSIC, KU Leuven, under the supervision of Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin. My work focuses on designing cryptographic protocols for privacy-preserving systems.
-
-### Research Interests
-
-I am interested in provable security and the formal analysis of cryptographic protocols. My current research focuses on anonymous credentials, privacy threats in decentralized systems, and post-quantum cryptography. I am particularly interested in designing new constructions and rigorously proving their security.
-
-:::
-
-::: {.hero-photo}
-
-![](images/profile.jpg){fig-alt="Profile photo of Omid Mirzamohammadi"}
-
-:::
-
-:::
+<div class="hero-flex">
+  <div class="hero-flex-text">
+    <h2 style="margin-top:0;">Omid Mirzamohammadi</h2>
+    <h3>About Me</h3>
+    <p>I am a Ph.D. researcher in cryptography at COSIC, KU Leuven, under the supervision of Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin. My work focuses on designing cryptographic protocols for privacy-preserving systems.</p>
+    <h3>Research Interests</h3>
+    <p>I am interested in provable security and the formal analysis of cryptographic protocols. My current research focuses on anonymous credentials, privacy threats in decentralized systems, and post-quantum cryptography. I am particularly interested in designing new constructions and rigorously proving their security.</p>
+  </div>
+  <div class="hero-flex-photo">
+    <img src="images/profile.jpg" alt="Profile photo of Omid Mirzamohammadi">
+  </div>
+</div>
+```
 
 ## Recent News
 
+- **September 2026** — Our paper “Multi-Verifier Keyed-Verification Anonymous Credentials” has been accepted to ASIACRYPT 2026. [Read the paper](https://eprint.iacr.org/2025/2156).
 - **Website launched.**
 - **PrivCrypt 2026:** I gave two talks at PrivCrypt 2026, affiliated with Eurocrypt 2026. The slides are available in the [Talks](talks.qmd) section.
-- **Multi-Verifier Keyed-Verification Anonymous Credentials:** The ePrint version of our paper is now available. [Read the paper](https://eprint.iacr.org/2025/2156).
