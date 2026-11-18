@@ -6,9 +6,11 @@ title: "CV"
 
 **KU Leuven**, COSIC, Department of Electrical Engineering (ESAT)  
 Belgium  
-**Since 2022**
+**Since November 2022**
 
 Supervisors: Prof. Bart Preneel, Prof. Dave Singelée, and Dr. Aysajan Abidin
+
+Dissertation (working title): *Anonymous Credentials: Constructions and Applications*
 
 Average grade: 20 out of 20  
 GPA: 4/4
@@ -47,6 +49,8 @@ Aggregate diploma grade: 19.84 out of 20
 
 ## Master’s Thesis Supervision
 
+I was the daily supervisor of the following Master’s theses at KU Leuven:
+
 - Henri Cattoire, **“Enhancing Privacy in the Solid Protocol through Attribute-Based Encryption,”** 2025.
 - Fernando Javier López Cerezo, **“Towards Self-Blindable Anonymous Credentials from Lattices,”** 2026.
 
@@ -55,10 +59,16 @@ Aggregate diploma grade: 19.84 out of 20
 I have served as a subreviewer for the following conferences:
 
 - IEEE Symposium on Security and Privacy (**S&P**), 2027.
+- International Conference on the Theory and Applications of Cryptographic Techniques (**EUROCRYPT**), 2027.
+- RSA Conference Cryptographers’ Track (**CT-RSA**), 2027.
 - ACM Conference on Computer and Communications Security (**CCS**), 2026.
 - IEEE Symposium on Security and Privacy (**S&P**), 2026.
 - International Conference on Cryptology and Network Security (**CANS**), 2025.
 - USENIX Security Symposium, 2024.
+
+## Community
+
+- Organizer of **The Unlinkables**, a weekly study group at COSIC on privacy-preserving authentication, since October 2026.
 
 ## Visiting Research
 
@@ -69,6 +79,7 @@ I have served as a subreviewer for the following conferences:
 - Silver medal, Iran National Physics Olympiad, 2014.
 - Member of Iran’s National Elites Foundation, since 2014.
 - Accepted without entrance exam to the M.Sc. program in Secure Communications and Cryptography at Sharif University of Technology, 2019.
+- Ranked first among all M.Sc. students in Secure Communications and Cryptography of the 2019 intake, Sharif University of Technology, 2022.
 
 ## Teaching Assistant Experience
 

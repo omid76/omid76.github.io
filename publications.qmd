@@ -6,14 +6,42 @@ title: "Publications"
 ::: {.pub}
 
 <div class="pub-title">
+Delegatable Keyed-Verification Anonymous Credentials
+</div>
+
+**Omid Mirzamohammadi**, Varesh Mishra, Jan Bobolz, Emad Heydari Beni, Aysajan Abidin, Dave Singelée, and Bart Preneel.
+
+*Cryptology ePrint Archive, Paper 2026/2860, 2026.*
+
+[Paper](https://eprint.iacr.org/2026/2860)
+
+:::
+
+::: {.pub}
+
+<div class="pub-title">
+Issuer-Independent Decentralized Exchange for E-Cash
+</div>
+
+Roozbeh Sarenche and **Omid Mirzamohammadi**.
+
+*Cryptology ePrint Archive, Paper 2026/2495, 2026.*
+
+[Paper](https://eprint.iacr.org/2026/2495)
+
+:::
+
+::: {.pub}
+
+<div class="pub-title">
 Multi-Verifier Keyed-Verification Anonymous Credentials
 </div>
 
 Jan Bobolz, Emad Heydari Beni, Anja Lehmann, **Omid Mirzamohammadi**, Cavit Özbay, and Mahdi Sedaghat.
 
-*Cryptology ePrint Archive, Paper 2025/2156, 2025.*
+*International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT), 2026. To appear.*
 
-[Paper](https://eprint.iacr.org/2025/2156)
+[Paper](https://eprint.iacr.org/2025/2156) · [Code](https://github.com/KULeuven-COSIC/mkvac)
 
 :::
 
@@ -34,12 +62,12 @@ Martin Zbudila, Ajith Suresh, Hossein Yalame, **Omid Mirzamohammadi**, Aysajan A
 ::: {.pub}
 
 <div class="pub-title">
-Traceable Verifiable Secret Sharing and Applications
+Accountable Verifiable Secret Sharing and Applications
 </div>
 
 Karim Baghery, Ehsan Ebrahimi, **Omid Mirzamohammadi**, and Mahdi Sedaghat.
 
-*Cryptology ePrint Archive, Paper 2025/318, 2025.*
+*IMA International Conference on Cryptography and Coding (IMACC), 2026. To appear.*
 
 [Paper](https://eprint.iacr.org/2025/318)
 
@@ -55,7 +83,7 @@ Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosur
 
 *IACR Communications in Cryptology, Vol. 2, No. 3, 2025.*
 
-[Paper](https://cic.iacr.org/p/2/3/15)
+[Paper](https://cic.iacr.org/p/2/3/15) · [Code](https://github.com/emad7105/sp-mac-eq-kvac)
 
 :::
 

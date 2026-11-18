@@ -76,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="google-site-verification" content="QWUq5ZFfFOtqbr4hd6Hg7tow7x8a9vZXhv9hsXJaxR0">
 
 
-<link rel="stylesheet" href="styles.scss">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
@@ -261,6 +261,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
@@ -315,6 +319,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#anonymous-credentials" id="toc-anonymous-credentials" class="nav-link active" data-scroll-target="#anonymous-credentials">Anonymous credentials</a></li>
   <li><a href="#keyed-verification-anonymous-credentials" id="toc-keyed-verification-anonymous-credentials" class="nav-link" data-scroll-target="#keyed-verification-anonymous-credentials">Keyed-verification anonymous credentials</a></li>
+  <li><a href="#post-quantum-anonymous-credentials" id="toc-post-quantum-anonymous-credentials" class="nav-link" data-scroll-target="#post-quantum-anonymous-credentials">Post-quantum anonymous credentials</a></li>
   <li><a href="#decentralized-identity-and-solid" id="toc-decentralized-identity-and-solid" class="nav-link" data-scroll-target="#decentralized-identity-and-solid">Decentralized identity and Solid</a></li>
   <li><a href="#privacy-preserving-computation" id="toc-privacy-preserving-computation" class="nav-link" data-scroll-target="#privacy-preserving-computation">Privacy-preserving computation</a></li>
   </ul>
@@ -353,6 +358,11 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="keyed-verification-anonymous-credentials">Keyed-verification anonymous credentials</h2>
 <p>In keyed-verification anonymous credentials, verification is performed using a secret verification key rather than only public information. This model is useful in settings where the issuer and verifier have a trust or key-sharing relationship, and it can lead to very efficient constructions.</p>
 <p>My work studies how to make these systems efficient, privacy-preserving, and suitable for partial disclosure.</p>
+</section>
+<section id="post-quantum-anonymous-credentials" class="level2">
+<h2 class="anchored" data-anchor-id="post-quantum-anonymous-credentials">Post-quantum anonymous credentials</h2>
+<p>Most anonymous credentials in use today rely on mathematical problems that a large-scale quantum computer could solve, which would make the credentials forgeable. Lattice-based constructions are believed to resist quantum attacks, but they are still much less efficient than their classical counterparts: presentations are far larger, and features such as issuer hiding and rate limiting are costly.</p>
+<p>I am interested in making lattice-based anonymous credentials efficient enough for practice, with security proofs against quantum attackers, so that systems such as digital identity wallets can move to post-quantum cryptography without giving up privacy.</p>
 </section>
 <section id="decentralized-identity-and-solid" class="level2">
 <h2 class="anchored" data-anchor-id="decentralized-identity-and-solid">Decentralized identity and Solid</h2>

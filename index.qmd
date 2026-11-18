@@ -62,6 +62,6 @@
 
 ## Recent News
 
-- **September 2026** — Our paper “Multi-Verifier Keyed-Verification Anonymous Credentials” has been accepted to ASIACRYPT 2026. [Read the paper](https://eprint.iacr.org/2025/2156).
-- **Website launched.**
-- **PrivCrypt 2026:** I gave two talks at PrivCrypt 2026, affiliated with Eurocrypt 2026. The slides are available in the [Talks](talks.qmd) section.
+- **November 2026** — The ePrint version of “Delegatable Keyed-Verification Anonymous Credentials” is now available. [Read the paper](https://eprint.iacr.org/2026/2860).
+- **October 2026** — The ePrint version of “Issuer-Independent Decentralized Exchange for E-Cash” is now available. [Read the paper](https://eprint.iacr.org/2026/2495).
+- **October 2026** — I started organizing The Unlinkables, a weekly study group at COSIC on privacy-preserving authentication.

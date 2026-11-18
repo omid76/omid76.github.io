@@ -4,13 +4,19 @@ title: "Talks"
 
 ### Multi-Verifier Keyed-Verification Anonymous Credentials
 
-- PrivCrypt 2026: [Read the slides](slides/PrivCrypt-mKVAC.pdf)
+- ASIACRYPT 2026, Hong Kong, December 2026
+- PrivCrypt 2026, Rome, Italy, 10 May 2026: [Read the slides](slides/PrivCrypt-mKVAC.pdf)
 - COSIC seminar: [Watch the talk](https://www.youtube.com/watch?v=0fgxph8I6Aw)
 
 ### Keyed-Verification Anonymous Credentials with Highly Efficient Partial Disclosure
 
-- PrivCrypt 2026: [Read the slides](slides/PrivCrypt-KVAC.pdf)
+- WPPT 2026 (Workshop on Privacy-Preserving Technologies, affiliated with ASIACRYPT 2026), Hong Kong, 7 December 2026
+- PrivCrypt 2026, Rome, Italy, 10 May 2026: [Read the slides](slides/PrivCrypt-KVAC.pdf)
 - NordiCrypt 2025
 - COSIC seminar: [Watch the talk](https://www.youtube.com/watch?v=MILVlPhOqz0)
+
+### Accountable Verifiable Secret Sharing and Applications
+
+- IMACC 2026, Cirencester, UK, December 2026
 
 

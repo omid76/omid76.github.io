@@ -1,14 +1,4 @@
 /* v2 */
-/*-- scss:defaults --*/
-$primary: #0B4F63;
-$link-color: #0B4F63;
-
-/*-- scss:rules --*/
-
-/* Hide Quarto automatic title block if the title is written manually */
-.quarto-title-block {
-  display: none;
-}
 
 /* Homepage hero section */
 .hero {

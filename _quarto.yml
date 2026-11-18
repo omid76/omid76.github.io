@@ -12,6 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
       - href: cv.qmd
         text: CV
       - href: publications.qmd
@@ -38,7 +40,7 @@ format:
     theme:
       dark: darkly
       light: cosmo
-    css: styles.scss
+    css: styles.css
     toc: true
     page-layout: full
     smooth-scroll: true

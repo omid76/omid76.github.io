@@ -16,6 +16,12 @@ In keyed-verification anonymous credentials, verification is performed using a s
 
 My work studies how to make these systems efficient, privacy-preserving, and suitable for partial disclosure.
 
+## Post-quantum anonymous credentials
+
+Most anonymous credentials in use today rely on mathematical problems that a large-scale quantum computer could solve, which would make the credentials forgeable. Lattice-based constructions are believed to resist quantum attacks, but they are still much less efficient than their classical counterparts: presentations are far larger, and features such as issuer hiding and rate limiting are costly.
+
+I am interested in making lattice-based anonymous credentials efficient enough for practice, with security proofs against quantum attackers, so that systems such as digital identity wallets can move to post-quantum cryptography without giving up privacy.
+
 ## Decentralized identity and Solid
 
 Decentralized identity systems aim to give users more control over their data. However, they also introduce privacy challenges, such as identity linking and repeated tracking across services.
